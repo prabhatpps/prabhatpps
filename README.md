@@ -7,7 +7,7 @@
 <a href="https://twitter.com/prabhatpps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhatpps" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabhat-pandey-23b765252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat-pandey-23b765252" height="30" width="40" /></a>
 <a href="https://instagram.com/_.prabhat.pandey._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.prabhat.pandey._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prabhatpandeypps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prabhatpandeypps" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prabhatpandeypps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prabhatpandeypps" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prabhatece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabhatece" height="30" width="40" /></a>
 </p>
 
