@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat Pandey</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Developer from India</h3>
+<h3 align="center">A passionate Electronics and Communication Engineer from India</h3>
 
 
 <h3 align="center">Connect with me:</h3>
