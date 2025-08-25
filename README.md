@@ -3,7 +3,7 @@
 # Hi 👋, I'm Prabhat Pandey
 
 
-### 💡 VLSI Design & Verification Engineer | RTL to GDSII Enthusiast 💡
+### 💡 VLSI Design & Verification Expert | RTL to GDSII Enthusiast 💡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;VLSI+%26+Digital+Design+Specialist;RTL+Design+%26+Verification+Expert;EDA+Tools+%26+Automation+Enthusiast;Research+%26+Development+Head" alt="Typing SVG" />
 
