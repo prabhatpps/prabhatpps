@@ -33,12 +33,10 @@
 
 ### 🔍 **Verification & Testing**
 ![UVM](https://img.shields.io/badge/UVM-Verification-lightblue?style=for-the-badge)
-![SVA](https://img.shields.io/badge/SVA-Assertions-cyan?style=for-the-badge)
 ![Testbench](https://img.shields.io/badge/Testbench-Design-brightgreen?style=for-the-badge)
 
 ### 🔬 **Process Technology**
 ![TSMC](https://img.shields.io/badge/TSMC-32nm-red?style=for-the-badge)
-![Sky130](https://img.shields.io/badge/Sky130-PDK-blue?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-Prototyping-purple?style=for-the-badge)
 
 ---
