@@ -32,7 +32,6 @@
 ![Quartus](https://img.shields.io/badge/Quartus_Prime-FPGA-purple?style=for-the-badge&logo=intel&logoColor=white)
 
 ### 🔍 **Verification & Testing**
-![UVM](https://img.shields.io/badge/UVM-Verification-lightblue?style=for-the-badge)
 ![Testbench](https://img.shields.io/badge/Testbench-Design-brightgreen?style=for-the-badge)
 
 ### 🔬 **Process Technology**
