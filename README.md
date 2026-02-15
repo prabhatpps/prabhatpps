@@ -13,7 +13,7 @@ Final-year B.Tech (ECE) @ VIT Vellore • ASIC / SoC / RTL Design • Embedded S
 
 ### ⚡ About Me
 - 🎯 Interested in **ASIC / SoC Design, RTL Verification, and Hardware Debugging**
-- 🧠 Strong in **Digital Design, FSMs, Timing, Synthesis (DC), STA basics**
+- 🧠 Strong in **Digital Design, FSMs, Timing, Synthesis (DC), STA**
 - 🔧 Hands-on with **Synopsys RTL → GDSII flow** + embedded prototyping
 
 ---
