@@ -44,12 +44,6 @@ Final-year B.Tech (ECE) @ VIT Vellore • ASIC / SoC / RTL Design • Embedded S
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prabhatpps&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
   <i>Open to RTL / ASIC / SoC / FPGA opportunities • Bengaluru / Hyderabad / Pune (India)</i>
 </p>
 
