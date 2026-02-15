@@ -44,11 +44,6 @@ Final-year B.Tech (ECE) @ VIT Vellore • ASIC / SoC / RTL Design • Embedded S
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatpps&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpps&layout=compact&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=prabhatpps&hide_border=true" height="150"/>
 </p>
 
