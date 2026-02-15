@@ -1,166 +1,60 @@
-<div align="center">
-  
-# Hi 👋, I'm Prabhat Pandey
+<h1 align="center">Hi, I'm Prabhat Pandey 👋</h1>
+<p align="center">
+Final-year B.Tech (ECE) @ VIT Vellore • ASIC / SoC / RTL Design • Embedded Systems
+</p>
 
-
-### 💡 VLSI Design & Verification Expert | RTL to GDSII Enthusiast 💡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;VLSI+%26+Digital+Design+Specialist;RTL+Design+%26+Verification+Expert;EDA+Tools+%26+Automation+Enthusiast;Research+%26+Development+Head" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🎯 About Me
-
-🎓 **Final Year B.Tech** - Electronics and Communication Engineering, **VIT Vellore**  
-🔬 **Research & Development Head** - ADG-VIT Technical Club  
-🚀 **Domain Focus**: VLSI Design, Digital Verification, RTL to GDSII Flow  
-🛠️ **Specialization**: Embedded Systems, FPGA Prototyping, EDA Tool Automation  
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhat-pandey-vitv26/">LinkedIn</a> •
+  <a href="mailto:prabhatpandeypps@gmail.com">Email</a> •
+  <a href="https://github.com/prabhatpps?tab=repositories">Projects</a>
+</p>
 
 ---
 
-## 🔧 VLSI & EDA Tools Expertise
-
-### 🏗️ **RTL Design & Synthesis**
-![Verilog](https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge&logo=v&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-SV-blue?style=for-the-badge&logo=sv&logoColor=white)
-### ⚡ **EDA Tools & Flow**
-![Synopsys](https://img.shields.io/badge/Synopsys-Design_Compiler-darkblue?style=for-the-badge&logo=synopsys&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-Virtuoso-orange?style=for-the-badge&logo=cadence&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge&logo=mentor&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus_Prime-FPGA-purple?style=for-the-badge&logo=intel&logoColor=white)
-
-### 🔍 **Verification & Testing**
-![Testbench](https://img.shields.io/badge/Testbench-Design-brightgreen?style=for-the-badge)
-
-### 🔬 **Process Technology**
-![TSMC](https://img.shields.io/badge/TSMC-32nm-red?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-Prototyping-purple?style=for-the-badge)
+### ⚡ About Me
+- 🎯 Interested in **ASIC / SoC Design, RTL Verification, and Hardware Debugging**
+- 🧠 Strong in **Digital Design, FSMs, Timing, Synthesis (DC), STA basics**
+- 🔧 Hands-on with **Synopsys RTL → GDSII flow** + embedded prototyping
 
 ---
 
-## 🚀 Featured VLSI Projects
-
-### 🏭 **Automated Vending Machine Controller**
-- **Technology**: TSMC 32nm Process
-- **Tools**: Synopsys Design Compiler, RTL Synthesis
-- **Features**: Complete RTL to GDSII implementation
-- **Verification**: Comprehensive testbench with functional coverage
-
-### 🌾 **Smart Irrigation System with Embedded Vision**
-- **Platform**: Raspberry Pi 5 + CNN Integration
-- **AI Model**: EfficientNetV2-L for soil classification
-- **Hardware**: Custom sensor integration with real-time processing
-
-### 🛣️ **Automated Toll Plaza System**
-- **Hardware**: ESP32-CAM, RFID, Ultrasonic Sensors
-- **Features**: Cloud integration, servo motor control
-- **Design**: Complete embedded system architecture
-
-### 🌪️ **Motion-Controlled Fan System**
-- **Components**: PIR sensors, Arduino, DC motor interfacing
-- **Control**: Real-time motion detection and response system
+### 🛠️ Skills Snapshot
+**Languages:** Verilog, SystemVerilog, C, Python  
+**Tools:** Synopsys Design Compiler, ModelSim, Quartus, Vivado, Cadence Virtuoso  
+**Domains:** RTL Design, Verification, STA, FSM, Digital Systems, Embedded Systems
 
 ---
 
-## 💻 Programming & Scripting
+### 🚀 Highlight Projects
+- **Smart IoT Sensor Interface Controller** (RTL + SV Verification)  
+  I2C/SPI/UART/FIFO/Arbiter + low-power modes, verified end-to-end.
 
-<div align="center">
+- **RV32I Single-Cycle RISC-V Processor**  
+  Built core datapath + control, validated with self-checking testbenches.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-003B57?style=for-the-badge&logo=c&logoColor=white)
-
-![TCL](https://img.shields.io/badge/TCL-Scripting-blue?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
+- **ESP32 / Arduino Automation Systems**  
+  RFID + sensors + servo control, cloud logging, real-world integration.
 
 ---
 
-## 🔬 Research & Development Experience
-
-### 🎯 **ADG-VIT Technical Club - R&D Head**
-- **Leadership**: Leading innovation projects combining hardware and software
-- **Mentorship**: Guiding junior members in digital design methodologies
-
-### 🤖 **Machine Learning Integration**
-- **Background**: Previous ML team member with cross-domain expertise
-- **Focus**: Edge AI and embedded vision systems
+### 📌 What I’m working on
+- Strengthening **verification (SV testbenches + assertions)**
+- Improving **STA & synthesis depth** for industry-level RTL
 
 ---
 
-## 🎯 Current Learning Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhatpps&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpps&layout=compact&hide_border=true" height="150"/>
+</p>
 
-```verilog
-module current_learning;
-    reg [31:0] focus_areas;
-    
-    initial begin
-        focus_areas = {
-            "Advanced UVM Verification",
-            "RTL to GDSII Automation",
-            "High-Speed Digital Design"
-        };
-        
-        $display("🌱 Always learning, always growing!");
-    end
-endmodule
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabhatpps&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+<p align="center">
+  <i>Open to RTL / ASIC / SoC / FPGA opportunities • Bengaluru / Hyderabad / Pune (India)</i>
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-pandey-23b765252)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prabhatpps)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.prabhat.pandey._)
-
-</div>
-
----
-
-## 📧 Contact Information
-
-<div align="center">
-
-**📧 Email**: [prabhatpandeypps@gmail.com](mailto:prabhatpandeypps@gmail.com)  
-**🏫 Institution**: Vellore Institute of Technology, Vellore  
-**📍 Location**: Vellore, Tamil Nadu, India
-
-</div>
-
----
-
-## 🏆 Professional Interests
-
-- **🔬 RTL Design & Verification**: Advanced digital design methodologies
-- **⚡ EDA Tool Automation**: Python/TCL scripting for design flows
-- **🛠️ FPGA Prototyping**: Rapid prototyping and validation
-- **🔧 Physical Design**: Place & Route, Timing Closure, Power Analysis
-- **🤖 Hardware-ML Integration**: Edge AI and embedded acceleration
-
----
-
-<div align="center">
-
-### 💫 "Designing the future, one chip at a time" 💫
-
-![Profile Views](https://komarev.com/ghpvc/?username=prabhatpps&label=Profile%20views&color=0e75b6&style=flat)
-
-⭐ **Star my repositories if you find them useful!** ⭐
-
-</div>
-
----
-
-<div align="center">
-
-**🚀 Open to collaborations in VLSI Design, Verification, and EDA Tool Development 🚀**
-
-</div>
